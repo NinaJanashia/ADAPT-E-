@@ -1,0 +1,11 @@
+openai
+openpyxl
+pandas
+pymupdf
+pymupdf4llm
+python-docx
+requests
+resend
+segtok
+streamlit
+tiktoken
