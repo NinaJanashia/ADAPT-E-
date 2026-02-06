@@ -23,9 +23,8 @@ def load_header():
     html_temp = f"""
     <div style="background-color:#00D29A;padding:10px;border-radius:10px;margin-bottom:20px;">
         <img src="data:image/png;base64,{encoded_string}" alt="logo" style="height:50px;width:auto;float:right;">
-        <h2 style="color:white;text-align:center;">AI Policy Reader (beta)</h2>
-        <h5 style="color:white;text-align:center;">This Tool allows users to analyze policy documents in bulk using the Large Language Model ChatGPT.\n
-Users can define specific queries to extract targeted information from any collection of PDF's.</h5>
+        <h2 style="color:white;text-align:center;">ADAPT-E: Adaptation Evidence Extractor</h2>
+        <h5 style="color:white;text-align:center;">Extract climate adaptation evidence from evaluation reports to track progress against the Global Goal on Adaptation.</h5>
         <br>
     </div>
     """
