@@ -1,4 +1,5 @@
-# ADAPT-E: Adaptation Evidence Extractor
+# ADAPT-E 
+⚠️ **Work in progress, under development** 
 
 AI tool for extracting climate adaptation evidence from project reports.
 
